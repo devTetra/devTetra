@@ -9,6 +9,11 @@
 ## Github Stats 📊
 [![Treasure's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Treasure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
