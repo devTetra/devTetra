@@ -9,7 +9,7 @@
 ## Github Stats 📊
 [![Treasure's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Treasure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
+[![Treasure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devTetra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTetra)](https://github.com/anuraghazra/github-readme-stats)
 
