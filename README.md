@@ -9,10 +9,9 @@
 ## Github Stats 📊
 [![Treasure's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTetra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 [![Treasure's GitHub Streak](https://streak-stats.demolab.com?user=devTetra&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Treasure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devTetra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔧 Technologies & Tools
